@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Noelia Kisnerman
 
-I am and Android developer with 8 years of experience.
+I am an Android developer with 8 years of experience.
 
 ## Skills
 
-![Android](https://img.shields.io/badge/Android-555555?style=for-the-badge&logo=android&logoColor=green)<br>
-![Android_Studio](https://img.shields.io/badge/Android_Studio-555555?style=for-the-badge&logo=android-studio&logoColor=yellow)<br>
-![Kotlin](https://img.shields.io/badge/Kotlin-555555?style=for-the-badge&logo=kotlin&logoColor=yellow)<br>
-![GIT](https://img.shields.io/badge/GIT-555555?style=for-the-badge&logo=git&logoColor=red)<br>
+![Android](https://img.shields.io/badge/Android-_555555?style=for-the-badge&logo=android&logoColor=green&labelColor=grey&color=brightgreen)<br>
+![Android_Studio](https://img.shields.io/badge/Android_Studio-_555555?style=for-the-badge&logo=android-studio&logoColor=yellow&labelColor=grey&color=yellow)<br>
+![Kotlin](https://img.shields.io/badge/Kotlin-_555555?style=for-the-badge&logo=kotlin&logoColor=yellow&labelColor=grey&color=yellow)<br>
+![GIT](https://img.shields.io/badge/GIT-_555555?style=for-the-badge&logo=git&logoColor=red&labelColor=grey&color=red)<br>
 
 ## Contact me
 
